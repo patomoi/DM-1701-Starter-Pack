@@ -1,7 +1,8 @@
 # DM-1701-Starter-Pack
 
 A compilation of essential files for the baofeng DM-1701 and other models
-include:
+
+- include:
 
 1. Official folder
    - Original Firmware
